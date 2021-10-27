@@ -1,4 +1,4 @@
-# One-shot-Learning
+# DrugExcipients_OneShotLearning
 This repository contains code for "Predicting the Activities of Drug Excipients on Biological Targets using One-Shot Learning" paper.
 
 **1.generate_negative_sample.py**  
