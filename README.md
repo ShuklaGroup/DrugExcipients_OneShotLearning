@@ -13,4 +13,4 @@ Script to generate the input file for one-shot-models.
 
 **3.one-shot-models.py**  
 
-Python code to train three one-shot models on Kinase/GPCR dataset.
+Python code to train three one-shot models on Kinase/GPCR dataset, using the package in deepchem.
